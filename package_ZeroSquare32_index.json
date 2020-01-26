@@ -1,26 +1,27 @@
- {
+
+{
   "packages": [
     {
-      "name": "ZeroSquare32",
-      "maintainer": "HITECS SRL",
-      "websiteURL": "http://www.hitecs.com",
+      "name": "SAM15x15",
+         "maintainer": "HITECS SRL",
+            "websiteURL": "http://www.hitecs.com",
       "email": "info@hitecs.com",
       "help": {"online": "help@hitecs.com"},
       "platforms": [
         {
-          "name": "ZeroSquare32",
+          "name": "SAM15x15",
           "architecture": "samd",
-          "version": "1.0.0",
+          "version": "25.12.17",
           "category": "Contributed",
           "help": {
-            "online": "http://www.hitecs.com"
+                      "online": "http://www.hitecs.com"
           },
-          "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board.zip?raw=true",
-          "archiveFileName": "ZeroSquare32Board.zip",
-"checksum": "SHA-256:aec7369c3adc96a4b05af42eff2945ac47ad086c7a82d45da02a26146344d250 ",
-          "size": "1077011 ",
+              "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board.zip?raw=true",
+                  "archiveFileName": "ZeroSquare32Board.zip",
+"checksum": "SHA-256:c668ba756bef5a2d6a5012b49c34c6dac066553f4b28e85f3747f03ed17c269b",
+              "size": "1076840 ",
           "boards": [
-            {"name": "ZeroSquare32"}
+            {"name": "SAM15x15"}
           ],
           "toolsDependencies": []
         }
