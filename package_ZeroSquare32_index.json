@@ -15,10 +15,10 @@
           "help": {
             "online": "http://www.hitecs.com"
           },
-          "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32.zip?raw=true",
-          "archiveFileName": "ZeroSquare32.zip",
-"checksum": "SHA-256:321255b5bde91ca75f80c585b8a2cf764a2c9c3dc6588b853ee6f3d0c6b80042 ",
-          "size": "1074610",
+          "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board.zip?raw=true",
+          "archiveFileName": "ZeroSquare32Board.zip",
+"checksum": "SHA-256:0711ca31f14671a53eafe1ef1f1e7bd750a63d010094254c4f2edc88f7a5b659 ",
+          "size": "2164011",
           "boards": [
             {"name": "ZeroSquare32"}
           ],
