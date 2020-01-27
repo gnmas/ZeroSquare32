@@ -17,8 +17,8 @@
           },
           "url": "https://github.com/gnmas/SAM15x15/blob/master/SAM15x15.tar.bz2?raw=true",
           "archiveFileName": "SAM15x15.tar.bz2",
-"checksum": "SHA-256:daa542fed156f1036881d8987111552e4678b5abde3020a0d4ffa4e206236927",
-          "size": "856810",
+"checksum": "SHA-256:913911c93d4e49deab43f858c1d96d6fbbc7f1d5c44dbc613d0fd70d45638f16",
+          "size": "1072502",
           "boards": [
             {"name": "SAM15x15"}
           ],
