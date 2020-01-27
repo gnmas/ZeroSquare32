@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "SAM15x15",
-      "maintainer": "avdweb.nl",
+      "maintainer": "hitecs.com",
       "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
       "email": "a@maxun.cc",
       "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
