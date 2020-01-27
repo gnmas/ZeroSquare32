@@ -10,7 +10,7 @@
         {
           "name": "SAM15x15",
           "architecture": "samd",
-          "version": "25.12.17",
+          "version": "1.0.0",
           "category": "Contributed",
           "help": {
             "online": "http://www.hitecs.com"
