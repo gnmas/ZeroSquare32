@@ -1,12 +1,11 @@
-
-{
+ {
   "packages": [
     {
       "name": "SAM15x15",
-         "maintainer": "HITECS SRL",
-            "websiteURL": "http://www.hitecs.com",
-      "email": "info@hitecs.com",
-      "help": {"online": "help@hitecs.com"},
+      "maintainer": "avdweb.nl",
+      "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
+      "email": "a@maxun.cc",
+      "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
       "platforms": [
         {
           "name": "SAM15x15",
@@ -14,12 +13,12 @@
           "version": "25.12.17",
           "category": "Contributed",
           "help": {
-                      "online": "http://www.hitecs.com"
+            "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
           },
-              "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board.zip?raw=true",
-                  "archiveFileName": "ZeroSquare32Board.zip",
-"checksum": "SHA-256:c668ba756bef5a2d6a5012b49c34c6dac066553f4b28e85f3747f03ed17c269b",
-              "size": "1076840 ",
+          "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board..zip?raw=true",
+          "archiveFileName": "ZeroSquare32Board.zip",
+"checksum": "SHA-256:d0dc90d9722139635d5d03e70a916d8d29f18046ddea67140fd0067c3f807b2f",
+          "size": "856824",
           "boards": [
             {"name": "SAM15x15"}
           ],
