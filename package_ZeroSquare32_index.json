@@ -1,0 +1,31 @@
+ {
+  "packages": [
+    {
+      "name": "SAM15x15",
+      "maintainer": "avdweb.nl",
+      "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
+      "email": "a@maxun.cc",
+      "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
+      "platforms": [
+        {
+          "name": "SAM15x15",
+          "architecture": "samd",
+          "version": "25.12.17",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
+          },
+          "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32Board..zip?raw=true",
+          "archiveFileName": "ZeroSquare32Board.zip",
+"checksum": "SHA-256:d0dc90d9722139635d5d03e70a916d8d29f18046ddea67140fd0067c3f807b2f",
+          "size": "856824",
+          "boards": [
+            {"name": "SAM15x15"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
