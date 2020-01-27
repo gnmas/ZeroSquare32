@@ -20,7 +20,7 @@
 "checksum": "SHA-256:494ce94796f4ef2c5ee96735ddfefbfccf8ec063da117061f98b028a30843cea",
           "size": "1074430",
           "boards": [
-            {"name": "SAM15x15"}
+            {"name": "ZeroSquare32"}
           ],
           "toolsDependencies": []
         }
