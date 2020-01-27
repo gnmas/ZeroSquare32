@@ -1,0 +1,32 @@
+{
+  "packages": [
+    {
+      "name": "ZeroSquare32",
+      "maintainer": "hitecs.com",
+      "websiteURL": "http://www.hitecs.com",
+      "email": "info@hitecs.com
+",
+      "help": {"online": "http://www.hitecs.com"},
+      "platforms": [
+        {
+          "name": "ZeroSquare32",
+          "architecture": "samd",
+          "version": "25.12.17",
+          "category": "Contributed",
+          "help": {
+            "online": "http://www.hitecs.com"
+          },
+          "url": "modificare",
+          "archiveFileName": "ZeroSquare32.zip",
+"checksum": "SHA-256:9d8a2487a55b3578b08b1040c590e1b7fbcfab60c1880256e2444ba4cde58b68",
+          "size": "1078894 ",
+          "boards": [
+            {"name": "ZeroSquare32"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools":[]
+    }
+  ]
+}
