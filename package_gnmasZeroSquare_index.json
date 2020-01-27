@@ -18,8 +18,8 @@
           },
           "url": "https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32.zip?raw=true",
           "archiveFileName": "ZeroSquare32.zip",
-"checksum": "SHA-256:3d5b00ea539e38c32607e7e768af31fce387a1187fe08c966869afc0b79a484b",
-          "size": "1080827",
+"checksum": "SHA-256:2d7a1ea9d25fcf27b303e22a615f11a2c79417cf84f4c5e19b5c1cc5c19bf145",
+          "size": "1074433",
           "boards": [
             {"name": "ZeroSquare32"}
           ],
