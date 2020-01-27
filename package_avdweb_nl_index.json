@@ -3,9 +3,9 @@
     {
       "name": "SAM15x15",
       "maintainer": "hitecs.com",
-      "websiteURL": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html",
+      "websiteURL": "http://www.hitecs.com",
       "email": "a@maxun.cc",
-      "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
+      "help": {"online": "http://www.hitecs.com"},
       "platforms": [
         {
           "name": "SAM15x15",
@@ -13,7 +13,7 @@
           "version": "25.12.17",
           "category": "Contributed",
           "help": {
-            "online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"
+            "online": "http://www.hitecs.com"
           },
           "url": "https://github.com/gnmas/SAM15x15/blob/master/SAM15x15.tar.bz2?raw=true",
           "archiveFileName": "SAM15x15.tar.bz2",
