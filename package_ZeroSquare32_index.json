@@ -8,7 +8,7 @@
       "help": {"online": "http://www.avdweb.nl/arduino/samd21/sam-15x15.html"},
       "platforms": [
         {
-          "name": "SAM15x15",
+          "name": "ZeroSquare32",
           "architecture": "samd",
           "version": "25.12.17",
           "category": "Contributed",
