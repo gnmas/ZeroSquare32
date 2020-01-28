@@ -1,4 +1,4 @@
-# Arduino Core for SAMD21 CPU
+# ZeroSquare32 - Arduino Core for SAMD21 CPU
 
 This repository contains the source code and configuration files of the Arduino Core
 for Atmel's SAMD21 processor used on the ZeroSquare32 boards by HITECS SRL.
