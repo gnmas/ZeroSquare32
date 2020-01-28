@@ -15,7 +15,7 @@ ZeroSquare32 board  is an expansion of the Arduino Zero board; therefore, is nec
     
     
 Must be installed version 1.6.8 becouse ZeroSquare32 board was developed on Arduino Zero Board package version 1.6.8.
-Using other version board cannot work properly.
+Using different version board cannot work properly.
 
 After installation of Arduino SAMD Boards (32-bits ARM Cortex-M0+) vers. 1.6.8, is time to install ZeroSquare32 boards package:
  
