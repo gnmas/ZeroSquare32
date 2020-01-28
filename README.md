@@ -1,14 +1,35 @@
 # Arduino Core for SAMD21 CPU
 
 This repository contains the source code and configuration files of the Arduino Core
-for Atmel's SAMD21 processor (used on the ZeroSquare32 boards).
+for Atmel's SAMD21 processor used on the ZeroSquare32 boards by HITECS SRL.
+
 
 ## Installation on Arduino IDE
 
-This core is available as a package in the Arduino IDE cores manager.
-Just open the "Boards Manager" and install the package called:
+ZeroAquare32 board  is an expansion of the Arduino Zero board; therefore, is necessary to install the arduino Zero package first:
 
-"Arduino SAMD Boards (32-bit ARM Cortex-M0+)"
+    Select Tools > Boards "..." > Boards Manager...
+    Select "Arduino SAMD Boards (32-bits ARM Cortex-M0+)"
+    Select version 1.6.8 with the small "Select version" box, see the image below.
+    Than click on Install
+    
+    
+Must be installed version 1.6.8 becouse ZeroSquare32 board was developed on Package of Arduino Zero Board version 1.6.8.
+Using other version board cannot work properly.
+
+After installation of Arduino SAMD Boards (32-bits ARM Cortex-M0+) vers. 1.6.8 is time to install ZeroSquare32 boards package:
+ 
+
+    Select File­>Preferences.
+    Fill in after Additional Boards Manager URLs: https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32.zip?raw=true
+    Install the ZeroSquare32 package, the procedure is the same as for the Arduino Zero package.
+    Plug in the ZeroSquare32 board.
+    Select Tools­>Board­> select ZeroSquare32
+    Select Tools­>Port and select the correct COM port.  
+
+Now you are ready to debug your sketch.
+
+ 
 
 ## Support
 
