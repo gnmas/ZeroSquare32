@@ -6,7 +6,7 @@ for Atmel's SAMD21 processor used on the ZeroSquare32 boards by HITECS SRL.
 
 ## Installation on Arduino IDE
 
-ZeroSquare32 board  is an expansion of the Arduino Zero board; therefore, is necessary to install the arduino Zero package first:
+ZeroSquare32 board  is based on Arduino Zero board; therefore, is necessary to install the arduino Zero package first:
 
     Select Tools > Boards "..." > Boards Manager...
     Select "Arduino SAMD Boards (32-bits ARM Cortex-M0+)"
