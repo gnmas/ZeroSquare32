@@ -10,7 +10,7 @@ ZeroSquare32 board  is an expansion of the Arduino Zero board; therefore, is nec
 
     Select Tools > Boards "..." > Boards Manager...
     Select "Arduino SAMD Boards (32-bits ARM Cortex-M0+)"
-    Select version 1.6.8 with menu box.
+    Select version 1.6.8 using menu box.
     Than click on Install
     
     
