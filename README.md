@@ -21,7 +21,7 @@ After the installation of Arduino SAMD Boards (32-bits ARM Cortex-M0+) vers. 1.6
  
 
     Select File­>Preferences.
-    Fill in after Additional Boards Manager URLs: https://github.com/gnmas/ZeroSquare32/blob/master/ZeroSquare32.zip?raw=true
+    Fill in after Additional Boards Manager URLs: https://raw.githubusercontent.com/gnmas/ZeroSquare32/master/package_gmas_zerosquare_index.json
     Install the ZeroSquare32 package, the procedure is the same as for the Arduino Zero package.
     Plug in the ZeroSquare32 board.
     Select Tools­>Board­> select ZeroSquare32
